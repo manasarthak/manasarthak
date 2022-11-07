@@ -8,32 +8,22 @@
 [![GitHub followers](https://img.shields.io/github/followers/manasarthak?label=Follow&style=social)](https://github.com/manasarthak/?tab=followers)
 [![Mail Badge](https://img.shields.io/badge/-manassarthak@gmail.com-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:manassarthak@gmail.com)](mailto:manassarthak@gmail.com)
 
-**I am Akash Kumar Singh 😃. I am currently a Final year student at Dept. of Computer Science and Engineering, [IIIT Kota](https://iiitkota.ac.in/) .
-My primary interest is in Competitve Programming. 
-I have also done Web and App development using Flutter. 
-Currently I'm spending my time learning Machine Learning and give CP contests.**
+**I am Sarthak Singh 😃. I am currently a final year student at Dept. of Electronics and Communication and Engineering, [IIIT Kota](https://iiitkota.ac.in/) .
+My primary interest is in Machine Learning and Data Science and I love doing research work in the same. My aim is to pursue higher studies doing getting a Masters in Data Science. 
+Currently I'm spending my time learning the nuances and implementing first hand, different Deep Learning Models. I have a vested interest in time based sequential data modelling and currently working on an NLP Project.**
 
 ### 🧐 About Me:
-- 📫 &nbsp; Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/akash-kumar-singh-20613/)
+- 📫 &nbsp; Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/manasarthak/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Fn0jO3aJ9k9Ld9KKYA2SJzxraeaHAoaj/view?usp=sharing)
 
-## ⚡ I'm a
-- Competitive Programmer using **Java** 
-- Android developer using **Flutter**
-<!--
-- Front-end developer using **HTML, Javascript , CSS , ReactJs**
-- Android developer using **Java**
--->
 
 ## My Profiles
-- [Codeforces](https://codeforces.com/profile/akash132)
-- [CodeChef](https://www.codechef.com/users/akash132)
-- [GFG](https://auth.geeksforgeeks.org/user/akash132/)
+- [Medium]https://medium.com/@manassarthak
 
 ## My Hobbies
+- **Football**
 - **Cricket**
-- **Travelling**
-- **Chess**
+- **FIFA**
 <!--
 <img alt="Sarthak's github stats" src="https://github-readme-stats.vercel.app/api?username=manasarthak&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 -->
