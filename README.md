@@ -18,7 +18,7 @@ Currently I'm spending my time learning the nuances and implementing first hand,
 
 
 ## My Profiles
-- [Medium] https://medium.com/@manassarthak
+- [Medium](https://medium.com/@manassarthak)
 
 ## My Hobbies
 - **Football**
