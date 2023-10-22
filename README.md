@@ -8,13 +8,12 @@
 [![GitHub followers](https://img.shields.io/github/followers/manasarthak?label=Follow&style=social)](https://github.com/manasarthak/?tab=followers)
 [![Mail Badge](https://img.shields.io/badge/-manassarthak@gmail.com-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:manassarthak@gmail.com)](mailto:manassarthak@gmail.com)
 
-**I am Sarthak Singh 😃. I am currently a final year student at Dept. of Electronics and Communication Engineering, [IIIT Kota](https://iiitkota.ac.in/) .
-My primary interest is in Machine Learning and Data Science, and I love doing research work in the same. My aim is to pursue higher studies getting a Masters in Data Science. 
-Currently I'm spending my time learning the nuances and implementing first hand, different Deep Learning Models. I have a vested interest in time based sequential data modelling and currently working on an NLP Project.**
+**I am Sarthak Singh 😃. I am currently doing my MS in Data Science at Rutghers-New Brunswick. My primary interest is in Data Analytics, Machine Learning and Data Science, and I love doing research work in the same.
+Currently I'm spending my time learning the nuances and implementing first hand, different Deep Learning Models. **
 
 ### 🧐 About Me:
 - 📫 &nbsp; Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/manasarthak/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Fn0jO3aJ9k9Ld9KKYA2SJzxraeaHAoaj/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume]([https://drive.google.com/file/d/1Fn0jO3aJ9k9Ld9KKYA2SJzxraeaHAoaj/view?usp=sharing](https://drive.google.com/file/d/17IBhMHlNkG1FgnTh-MCBmbiBUYHB5knn/view?usp=sharing))
 
 
 ## My Profiles
