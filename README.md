@@ -8,8 +8,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/manasarthak?label=Follow&style=social)](https://github.com/manasarthak/?tab=followers)
 [![Mail Badge](https://img.shields.io/badge/-manassarthak@gmail.com-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:manassarthak@gmail.com)](mailto:manassarthak@gmail.com)
 
-**I am Sarthak Singh 😃. I am currently doing my MS in Data Science at Rutghers-New Brunswick. My primary interest is in Data Analytics, Machine Learning and Data Science, and I love doing research work in the same.
-Currently I'm spending my time learning the nuances and implementing first hand, different Deep Learning Models. **
+**I am Sarthak Singh 😃. I am currently doing my MS in Data Science at Rutgers-New Brunswick. My primary interest is in Data Analytics, Machine Learning and Data Science, and I love doing research work in the same.
+Currently I'm spending my time learning the nuances and implementing first hand, different Deep Learning Models.**
 
 ### 🧐 About Me:
 - 📫 &nbsp; Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/manasarthak/)
